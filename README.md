@@ -7,6 +7,6 @@
 
 ### Hi there! I'm Bárbara Fuzzato! 👋
 
-- 🌱 Studying Computer systems analysis and development
+- 🌱 Studying Computer Systems Analysis and Development
 - 📫 How to reach me: barbarafuzzato@gmail.com
 
