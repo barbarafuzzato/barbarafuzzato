@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://github.com/barbarafuzzato">
-  <img height="180em" img width="425em" src="https://github-readme-stats.vercel.app/api?username=barbarafuzzato&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="420em" src="https://github-readme-stats.vercel.app/api?username=barbarafuzzato&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarafuzzato&layout=compact&langs_count=7&theme=material-palenight"/>
 <img align="right" <img height="130em" img width="125em" src="https://cdn.discordapp.com/attachments/886793340186673155/886793456964468756/ezgif.com-gif-maker.gif">
 </div>
