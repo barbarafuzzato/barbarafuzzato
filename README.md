@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Bárbara Fuzzato! 👋
 
-- 🌱 Cursando ADS
+- 🌱 Formada em ADS
 - 📫 Contato: barbarafuzzato@gmail.com
 
 ### Hi there! I'm Bárbara Fuzzato! 👋
 
-- 🌱 Studying Computer Systems Analysis and Development
+- 🌱 Computer Systems Analyst and Developer
 - 📫 How to reach me: barbarafuzzato@gmail.com
 
 ##
